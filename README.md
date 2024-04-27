@@ -5,10 +5,12 @@ A super interesting and fun 3D RPG game!
 
 # Implementation
 Remy 3rd person model
+
 Herringbone flooring
 
 # References
 Textures from: https://freepbr.com/
+
 Models and animations from: Mixamo.com
 
 # Future Development 
